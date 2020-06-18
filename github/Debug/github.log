@@ -1,0 +1,8 @@
+﻿  calculator.c
+C:\Users\Sun\Desktop\github\github\calculator.c(2,5): error C2371: 'calculator': 재정의. 기본 형식이 다릅니다.
+C:\Users\Sun\Desktop\github\github\calculator.h(3): message : 'calculator' 선언을 참조하십시오.
+  sorce.c
+C:\Users\Sun\Desktop\github\github\sorce.c(5,6): error C2371: 'calculator': 재정의. 기본 형식이 다릅니다.
+C:\Users\Sun\Desktop\github\github\calculator.h(3): message : 'calculator' 선언을 참조하십시오.
+C:\Users\Sun\Desktop\github\github\sorce.c(20,48): warning C4013: 'calculater'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  코드를 생성하고 있습니다...

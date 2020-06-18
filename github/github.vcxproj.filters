@@ -18,5 +18,13 @@
     <ClCompile Include="sorce.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="calculator.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="calculator.h">
+      <Filter>소스 파일</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
