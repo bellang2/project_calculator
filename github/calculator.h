@@ -1,4 +1,4 @@
 #pragma once
 
-void calculator(int , int, int);
+int calculator(int , int, int);
 

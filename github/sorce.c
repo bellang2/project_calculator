@@ -2,7 +2,7 @@
 #include"calculator.h"
 int main(void)
 {
-	int calculator(sel, no1, no2);
+	
 	int sel = 0;
 	int no1 = 0;
 	int no2 = 0;
@@ -17,7 +17,7 @@ int main(void)
 
 	
 
-	printf("결과값은 %d입니다.", calculater(sel, no1, no2));
+	printf("결과값은 %d입니다.", calculator(sel, no1, no2));
 
 	return 0;
 }
